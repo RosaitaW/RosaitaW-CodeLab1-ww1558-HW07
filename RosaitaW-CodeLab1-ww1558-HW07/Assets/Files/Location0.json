@@ -1,0 +1,8 @@
+﻿{
+    "title": "Your Home",
+  "description": "It's small and a bit messy, but still, it's Home. You're hungry. \n\nNorth of you is the Town Center and one can surely grab some food there.",
+    "nLocation": 1,
+    "sLocation": -1,
+    "eLocation": -1,
+    "wLocation": -1
+}

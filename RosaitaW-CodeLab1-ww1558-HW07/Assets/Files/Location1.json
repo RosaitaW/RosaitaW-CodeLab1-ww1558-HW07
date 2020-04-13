@@ -1,0 +1,8 @@
+﻿{
+    "title": "The Town Center",
+  "description": "The Town is crowded as usual, people everywhere you know, minding their own bussiness.One or two of them noticed you, but never mind. \n\nNORTH of you is The Park.\nSOUTH leads to Your Home.\nTo the WEST is The Burger House.\nThe Sandwich House is to the East.",
+    "nLocation": 2,
+    "sLocation": 0,
+    "eLocation": 4,
+    "wLocation": 3
+}

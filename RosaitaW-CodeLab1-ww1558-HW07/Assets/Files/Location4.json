@@ -1,0 +1,8 @@
+﻿{
+    "title": "The Sandwich House",
+  "description": "The Sandwich House, that's what you're talking about, food, people go there to eat. Your stomach starts to burn out of hungerness. \n\nWest leads back to the Town Center.",
+    "nLocation": -1,
+    "sLocation": -1,
+    "eLocation": -1,
+    "wLocation": 1
+}
