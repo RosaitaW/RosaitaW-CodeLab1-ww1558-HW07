@@ -22,6 +22,21 @@ public class DirectionManager : MonoBehaviour
 
     string filePath = "/Files/Location<num>.json";//file path to store the specific location details
 
+    public static DirectionManager instance;
+
+    private void Awake()
+    {
+        if (instance == null)
+        {
+            instance = this;
+            DontDestroyOnLoad(gameObject);
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+
     void Start()
     {
         filePath = Application.dataPath + filePath;

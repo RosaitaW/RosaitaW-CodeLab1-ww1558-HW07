@@ -1,0 +1,10 @@
+Cheese
+Beef
+Pork
+Hamburger
+Fish
+Shrimp
+Chicken
+Egg
+Vegan
+Chef
